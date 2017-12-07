@@ -1,4 +1,4 @@
-# Amadeus Relay API User Documentation
+# Amadeus Relay API User Documentation.
 
 This is the documentation created by Amadeus' team for dApps to learn how to interact with our APIs. Below you will find a user guide on how to consume it, but if you have any doubts feel free to contact us at team@amadeusrelay.org. 
 
